@@ -7,11 +7,11 @@ GitHub- https://github.com/webHimanshusingh<br>
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
 # jion us
-1.Analog Clock
-2.Calculator
-3.Form Validation
-4.Password Generator
-5.QR Code Generator
+1.Analog Clock<br>
+2.Calculator<br>
+3.Form Validation<br>
+4.Password Generator<br>
+5.QR Code Generator<br>
 # OUTPUT-1
 ![Screenshot 2024-07-24 201041](https://github.com/user-attachments/assets/83ecba0f-437d-4775-8a89-994c7fba8f28)
 # OUTPUT-2
